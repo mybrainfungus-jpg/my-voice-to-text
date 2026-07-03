@@ -1,0 +1,6 @@
+{
+  "name": "Voice to Sheet",
+  "description": "Record voice messages, automatically transcribe and timestamp them in a Google Sheet, and generate AI-powered summaries with Gemini.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
